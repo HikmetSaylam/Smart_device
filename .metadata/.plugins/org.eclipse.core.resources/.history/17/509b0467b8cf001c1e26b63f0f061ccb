@@ -1,0 +1,16 @@
+package pckg;
+
+public class SicaklikAlgýlayýcýFactory 
+{
+	private SicaklikAlgýlayýcý sicaklikAlgýlayýcý;
+	
+	public SicaklikAlgýlayýcýFactory() 
+	{
+		this.sicaklikAlgýlayýcý= new SicaklikAlgýlayýcý();
+	}
+
+	public SicaklikAlgýlayýcý getSicaklikAlgýlayýcý()
+	{
+		return sicaklikAlgýlayýcý;
+	}
+}

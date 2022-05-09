@@ -1,0 +1,13 @@
+package pckg;
+
+public class Eyleyici implements IObserver 
+{
+	private int sicaklik;
+
+	@Override
+	public void update(String mesaj) 
+	{
+		System.out.println(mesaj);	
+	}
+
+}

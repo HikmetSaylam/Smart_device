@@ -1,0 +1,13 @@
+package pckg;
+
+public class AgArayuzu 
+{
+	private IEyleyici eyleyici;
+	private SicaklikAlgýlayýcý sicaklikAlgýlayýcý;
+	
+	public AgArayuzu() 
+	{
+		eyleyici=new Eyleyici();
+		SicaklikAlgýlayýcýFactory sicaklikAlgýlayýcýFactory= new SicaklikAlgýlayýcýFactory();
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;hafta04.excamble&apos; to &apos;Excamble&apos;&#x0D;&#x0A;- Original project: &apos;hafta04&apos;&#x0D;&#x0A;- Original element: &apos;hafta04.excamble&apos;&#x0D;&#x0A;- Renamed element: &apos;hafta04.Excamble&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;excamble&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;hafta04{excamble.java[excamble" matchStrategy="1" name="Excamble" qualified="false" references="true" similarDeclarations="false" stamp="1646641687619" textual="false" version="1.0"/>
+</session>

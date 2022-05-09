@@ -1,0 +1,6 @@
+package pckg;
+
+public class Eyleyici implements IObserver 
+{
+
+}

@@ -1,0 +1,27 @@
+package pckg;
+
+import java.util.Scanner;
+
+public class Menu 
+{
+	Scanner input = new Scanner(System.in);
+	AgArayuzu agArayuzu=new AgArayuzu();
+	
+	public void basla()
+	{
+		String name;
+		String pass;
+		do 
+		{
+			System.out.println("Kullanici adinizi girin: ");
+			name=input.nextLine();
+		} 
+		while (!agArayuzu.kullaniciDogrula(name));
+		do 
+		{
+			System.out.println("Kullanici adinizi girin: ");
+			name=input.nextLine();
+		} 
+		while (!agArayuzu.kullaniciSifreDogrula(name));
+	}
+}

@@ -1,0 +1,14 @@
+package pckg;
+
+import java.util.Scanner;
+
+public class Menu 
+{
+	Scanner input = new Scanner(System.in);
+	AgArayuzu agArayuzu=new AgArayuzu();
+	
+	public void basla()
+	{
+		String name;
+	}
+}

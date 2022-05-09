@@ -1,0 +1,6 @@
+package pckg;
+
+public class SicaklikOkuFactory 
+{
+	private SicaklikOku sicOku;
+}

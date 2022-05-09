@@ -1,0 +1,7 @@
+package pckg;
+
+public class AgArayuzu 
+{
+	private IEyleyici eyleyici;
+	private SicaklikAlgýlayýcý sicaklikAlgýlayýcý;
+}

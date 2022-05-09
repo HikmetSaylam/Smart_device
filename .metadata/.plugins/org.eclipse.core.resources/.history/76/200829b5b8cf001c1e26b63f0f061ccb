@@ -1,0 +1,11 @@
+package pckg;
+
+public class AgArayuzu 
+{
+	DB db = new DB();
+	public boolean kullaniciDogrula(String isim)
+	{
+		db.isimDogrula(isim);
+	}
+	
+}

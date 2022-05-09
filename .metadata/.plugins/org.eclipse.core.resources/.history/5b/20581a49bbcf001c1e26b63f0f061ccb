@@ -1,0 +1,31 @@
+package pckg;
+
+public class AnaIslemPlatformu implements IAnaIslemPlatformu
+{
+
+	private IEyleyici eyleyici;
+	private SicaklikAlgilayici sicaklikAlgilayici;
+	
+	public AnaIslemPlatformu() 
+	{
+		this.eyleyici=new Eyleyici()
+	}
+	@Override
+	public void sogutucuAc() 
+	{
+		
+	}
+
+	@Override
+	public void sogutucuKapat() 
+	{
+		
+	}
+
+	@Override
+	public int sicaklikGoruntule() 
+	{
+		return 0;
+	}
+	
+}

@@ -1,0 +1,9 @@
+package pckg;
+
+public class SicaklikOku 
+{
+	public SicaklikOku() 
+	{
+		// TODO Auto-generated constructor stub
+	}
+}

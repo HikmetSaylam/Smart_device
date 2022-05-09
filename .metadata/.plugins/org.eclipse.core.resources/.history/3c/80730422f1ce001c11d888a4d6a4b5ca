@@ -1,0 +1,16 @@
+package pckg;
+
+public class SicaklikOkuFactory 
+{
+	private SicaklikAlgýlayýcý sicOku;
+	
+	public SicaklikOkuFactory() 
+	{
+		this.sicOku= new SicaklikAlgýlayýcý();
+	}
+
+	public SicaklikAlgýlayýcý getSicOku() 
+	{
+		return sicOku;
+	}
+}

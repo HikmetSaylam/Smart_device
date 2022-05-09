@@ -1,0 +1,16 @@
+package pckg;
+import java.util.Random;
+
+public class SicaklikOku 
+{
+	private int sicaklik;
+	public SicaklikOku() 
+	{
+		Random random=new Random();
+		this.sicaklik=
+	}
+	public int getSicaklik() {
+		return sicaklik;
+	}
+	
+}

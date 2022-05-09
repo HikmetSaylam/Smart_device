@@ -1,0 +1,15 @@
+package pckg;
+import Java.until.Random;
+
+public class SicaklikOku 
+{
+	private int sicaklik;
+	public SicaklikOku() 
+	{
+		// TODO Auto-generated constructor stub
+	}
+	public int getSicaklik() {
+		return sicaklik;
+	}
+	
+}

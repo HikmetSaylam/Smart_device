@@ -1,0 +1,7 @@
+1652002415895	Encapsulate field 'sicaklik'
+1652002828207	Encapsulate field 'sicOku'
+1652029540553	Rename type 'SicaklikOku'
+1652029559560	Rename type 'SicaklikOkuFactory'
+1652029741758	Rename type 'AgArayuzu'
+1652029963039	Rename type 'IAgArayuzu'
+1652030343360	Encapsulate field 'sicaklikAlgılayıcı'

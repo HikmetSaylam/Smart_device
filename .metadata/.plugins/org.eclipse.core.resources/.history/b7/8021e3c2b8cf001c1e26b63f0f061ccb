@@ -1,0 +1,16 @@
+package pckg;
+
+public class AgArayuzu 
+{
+	DB db = new DB();
+	public boolean kullaniciDogrula(String isim)
+	{
+		return db.isimDogrula(isim);
+	}
+	
+	public boolean kullanicSifreiDogrula(String isim)
+	{
+		return db.isimDogrula(isim);
+	}
+	
+}
