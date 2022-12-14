@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author insia
- *
- */
-module Kemal {
-}
