@@ -1,5 +1,0 @@
-package pckg;
-
-public interface ISubject {
-
-}

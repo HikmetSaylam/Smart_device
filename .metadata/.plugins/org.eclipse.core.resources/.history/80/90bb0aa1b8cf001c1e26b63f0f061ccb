@@ -1,7 +1,0 @@
-package pckg;
-
-public class AgArayuzu 
-{
-	DB db = new DB();
-	
-}
